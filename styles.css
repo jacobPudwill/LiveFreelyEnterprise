@@ -1,0 +1,58 @@
+/* Navigation Bar */
+
+.navbar {
+    padding: 1rem 2rem;
+}
+
+.nav-item {
+    padding: 0 1rem;
+}
+
+/* Title */
+
+#title {
+    background-color: #68B984;
+    color: #fff;
+}
+
+.frontPageText {
+    padding-top: 200px;
+    text-align: center;
+}
+
+/* Service */
+
+#service {
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.question {
+    margin: 1rem;
+}
+
+.question-icon {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+/* Appointment */
+
+#appointment {
+    background-color: #68B984;
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+/* Footer */
+
+#footer {
+    text-align: center;
+    padding: 5% 15%;
+}
+
+.social-icon {
+    margin: 1rem;
+}
