@@ -27,8 +27,20 @@
     padding: 5% 15%;
 }
 
-.question {
+.question-row {
     margin: 1rem;
+}
+
+#question-one, #question-three {
+    padding-right: 2rem;
+}
+
+#question-two {
+    padding-left: 2rem;
+}
+
+#question-four {
+    padding-top: 2rem;
 }
 
 .question-icon {
