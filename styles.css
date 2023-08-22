@@ -21,12 +21,14 @@
 }
 
 .frontPageText {
-    padding-top: 200px;
+    padding-top: 250px;
+    padding-left: 75px;
     text-align: center;
 }
 
 #LFE-Logo {
-    width: 80%;
+    width: 70%;
+    margin-left: 75px;
 }
 
 /* Service */
@@ -40,16 +42,16 @@
     margin: 1rem;
 }
 
-#question-one, #question-three {
+#question-one {
+    margin-bottom: 2rem;
+}
+
+#question-two, #question-four {
     padding-right: 2rem;
 }
 
-#question-two {
-    padding-left: 2rem;
-}
-
 #question-four {
-    padding-top: 2rem;
+    padding-left: 2rem;
 }
 
 .question-icon {
